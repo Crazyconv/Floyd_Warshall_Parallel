@@ -1,0 +1,59 @@
+arraysize: 1200 #processor: 2
+Sequential: 19408039 usecs
+Parallel: 7531402 usecs
+
+arraysize: 1200 #processor: 4
+Sequential: 22893092 usecs
+Parallel: 4495022 usecs
+
+arraysize: 1200 #processor: 6
+Sequential: 22957491 usecs
+Parallel: 3103705 usecs
+
+arraysize: 1200 #processor: 8
+Sequential: 22748566 usecs
+Parallel: 2404580 usecs
+
+arraysize: 1200 #processor: 10
+Sequential: 22843348 usecs
+Parallel: 1854835 usecs
+
+arraysize: 2400 #processor: 2
+Sequential: 110005952 usecs
+Parallel: 38274536 usecs
+
+arraysize: 2400 #processor: 4
+Sequential: 177790011 usecs
+Parallel: 19446011 usecs
+
+arraysize: 2400 #processor: 6
+Sequential: 158426235 usecs
+Parallel: 13114467 usecs
+
+arraysize: 2400 #processor: 8
+Sequential: 180010905 usecs
+Parallel: 9892513 usecs
+
+arraysize: 2400 #processor: 10
+Sequential: 113494240 usecs
+Parallel: 11869081 usecs
+
+arraysize: 4800 #processor: 2
+Sequential: 806478410 usecs
+Parallel: 305894538 usecs
+
+arraysize: 4800 #processor: 4
+Sequential: 819776492 usecs
+Parallel: 233865628 usecs
+
+arraysize: 4800 #processor: 6
+Sequential: 865181554 usecs
+Parallel: 153927297 usecs
+
+arraysize: 4800 #processor: 8
+Sequential: 844837925 usecs
+Parallel: 108216376 usecs
+
+arraysize: 4800 #processor: 10
+Sequential: 820587637 usecs
+Parallel: 71452857 usecs
